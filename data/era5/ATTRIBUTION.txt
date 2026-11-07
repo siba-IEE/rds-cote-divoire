@@ -1,0 +1,14 @@
+Source : ERA5, réanalyse ECMWF, Copernicus Climate Change Service (C3S), Climate Data Store.
+
+Attribution requise :
+« Contient des informations modifiées du Copernicus Climate Change Service (2026). »
+Licence : licence Copernicus (CC BY 4.0).
+
+Point de grille de 0,25° le plus proche de la localité (110 points pour 142 localités).
+Mensuel : moyennes mensuelles du CDS. Journalier : moyenne des 24 valeurs horaires
+du jour UTC ; vent recalculé depuis ses composantes ; humidité relative calculée
+heure par heure depuis la température et le point de rosée (formule d'ECMWF).
+
+Fichiers : mensuel_1991_2025.csv ; journalier_1991_2000.csv à journalier_2021_2025.csv.
+Capture : octobre 2026.
+Décisions : ADR-0021, ADR-0032, ADR-0034, ADR-0038.
