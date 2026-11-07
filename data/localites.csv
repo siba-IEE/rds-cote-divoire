@@ -1,0 +1,143 @@
+code,nom,niveau,region,district,latitude,longitude,population_2021
+civ_agneby_tiassa,Agnéby-Tiassa,region,Agnéby-Tiassa,Lagunes,6,-4,865951
+civ_bafing,Bafing,region,Bafing,Woroba,8.5,-7.5,262850
+civ_bagoue,Bagoué,region,Bagoué,Savanes,9.5167,-6.4833,515890
+civ_belier,Bélier,region,Bélier,Lacs,6.92,-5.05,415593
+civ_bere,Béré,region,Béré,Woroba,8.0667,-6.1833,492151
+civ_bounkani,Bounkani,region,Bounkani,Zanzan,9.2667,-3,427037
+civ_cavally,Cavally,region,Cavally,Montagnes,6.5333,-7.4833,708241
+civ_dep_abengourou,Abengourou,departement,Indénié-Djuablin,Comoé,6.7333,-3.4833,430539
+civ_dep_abidjan,Abidjan,departement,,Abidjan,5.4167,-4.0333,6321017
+civ_dep_aboisso,Aboisso,departement,Sud-Comoé,Comoé,5.4667,-3.2,361842
+civ_dep_adiake,Adiaké,departement,Sud-Comoé,Comoé,5.2833,-3.3,88006
+civ_dep_adzope,Adzopé,departement,La Mé,Lagunes,6.1058,-3.864,283727
+civ_dep_agboville,Agboville,departement,Agnéby-Tiassa,Lagunes,5.9333,-4.2167,384340
+civ_dep_agnibilekrou,Agnibilékrou,departement,Indénié-Djuablin,Comoé,7.2167,-3.3333,216264
+civ_dep_akoupe,Akoupé,departement,La Mé,Lagunes,6.3833,-3.9,156698
+civ_dep_alepe,Alépé,departement,La Mé,Lagunes,5.5,-3.6667,180253
+civ_dep_arrah,Arrah,departement,Moronou,Lacs,6.6667,-3.9667,103846
+civ_dep_attiegouakro,Attiégouakro,departement,,Yamoussoukro,6.7667,-5.1167,49513
+civ_dep_bangolo,Bangolo,departement,Guémon,Montagnes,7.0167,-7.4833,270629
+civ_dep_beoumi,Béoumi,departement,Gbêkê,Vallée du Bandama,7.6667,-5.5833,195015
+civ_dep_bettie,Bettié,departement,Indénié-Djuablin,Comoé,6.0667,-3.4,69640
+civ_dep_biankouma,Biankouma,departement,Tonkpi,Montagnes,7.7333,-7.6167,238714
+civ_dep_blolequin,Bloléquin,departement,Cavally,Montagnes,6.5667,-8,237944
+civ_dep_bocanda,Bocanda,departement,N'Zi,Lacs,7.0667,-4.5,121469
+civ_dep_bondoukou,Bondoukou,departement,Gontougo,Zanzan,8.0333,-2.8,453841
+civ_dep_bongouanou,Bongouanou,departement,Moronou,Lacs,6.65,-4.2,193158
+civ_dep_bonon,Bonon,departement,Marahoué,Sassandra-Marahoué,6.8324,-5.9779,167397
+civ_dep_botro,Botro,departement,Gbêkê,Vallée du Bandama,7.85,-5.3167,117924
+civ_dep_bouafle,Bouaflé,departement,Marahoué,Sassandra-Marahoué,6.9833,-5.75,300305
+civ_dep_bouake,Bouaké,departement,Gbêkê,Vallée du Bandama,7.6833,-5.0167,931851
+civ_dep_bouna,Bouna,departement,Bounkani,Zanzan,9.2667,-3,178081
+civ_dep_boundiali,Boundiali,departement,Bagoué,Savanes,9.5333,-6.4833,198541
+civ_dep_buyo,Buyo,departement,Nawa,Bas-Sassandra,6.2333,-7.05,176568
+civ_dep_dabakala,Dabakala,departement,Hambol,Vallée du Bandama,8.3667,-4.4333,254430
+civ_dep_dabou,Dabou,departement,Grands-Ponts,Lagunes,5.3167,-4.3833,213582
+civ_dep_daloa,Daloa,departement,Haut-Sassandra,Sassandra-Marahoué,6.8833,-6.45,705378
+civ_dep_danane,Danané,departement,Tonkpi,Montagnes,7.2667,-8.1667,364012
+civ_dep_daoukro,Daoukro,departement,Iffou,Lacs,7.25,-3.8667,148095
+civ_dep_dianra,Dianra,departement,Béré,Woroba,8.7667,-6.25,119146
+civ_dep_didievi,Didiévi,departement,Bélier,Lacs,7.1333,-4.9,93629
+civ_dep_dikodougou,Dikodougou,departement,Poro,Savanes,9.0667,-5.7667,102115
+civ_dep_dimbokro,Dimbokro,departement,N'Zi,Lacs,6.65,-4.7,102192
+civ_dep_divo,Divo,departement,Lôh-Djiboua,Gôh-Djiboua,5.8333,-5.3667,571688
+civ_dep_djekanou,Djékanou,departement,Bélier,Lacs,6.4833,-5.1167,37281
+civ_dep_doropo,Doropo,departement,Bounkani,Zanzan,9.8167,-3.35,93386
+civ_dep_duekoue,Duékoué,departement,Guémon,Montagnes,6.7333,-7.35,420911
+civ_dep_facobly,Facobly,departement,Guémon,Montagnes,7.3833,-7.3833,94610
+civ_dep_ferkessedougou,Ferkessédougou,departement,Tchologo,Savanes,9.5833,-5.2,190141
+civ_dep_fresco,Fresco,departement,Gbôklé,Bas-Sassandra,5.0833,-5.5667,107752
+civ_dep_gagnoa,Gagnoa,departement,Gôh,Gôh-Djiboua,6.1364,-5.9581,724496
+civ_dep_gbeleban,Gbéléban,departement,Kabadougou,Denguélé,9.5833,-8.1333,29532
+civ_dep_gohitafla,Gohitafla,departement,Marahoué,Sassandra-Marahoué,7.5,-5.8833,83370
+civ_dep_grand_bassam,Grand-Bassam,departement,Sud-Comoé,Comoé,5.2,-3.7333,267103
+civ_dep_grand_lahou,Grand-Lahou,departement,Grands-Ponts,Lagunes,5.1333,-5.0167,155832
+civ_dep_gueyo,Guéyo,departement,Nawa,Bas-Sassandra,5.6833,-6.0667,102213
+civ_dep_guiglo,Guiglo,departement,Cavally,Montagnes,6.55,-7.4833,259381
+civ_dep_guitry,Guitry,departement,Lôh-Djiboua,Gôh-Djiboua,5.5167,-5.2333,197236
+civ_dep_issia,Issia,departement,Haut-Sassandra,Sassandra-Marahoué,6.5,-6.5,410628
+civ_dep_jacqueville,Jacqueville,departement,Grands-Ponts,Lagunes,5.15,-4.4,80593
+civ_dep_kani,Kani,departement,Worodougou,Woroba,8.4833,-6.6,131428
+civ_dep_kaniasso,Kaniasso,departement,Folon,Denguélé,9.8167,-7.5167,84572
+civ_dep_katiola,Katiola,departement,Hambol,Vallée du Bandama,8.1333,-5.1,162472
+civ_dep_kong,Kong,departement,Tchologo,Savanes,9.15,-4.6167,118304
+civ_dep_korhogo,Korhogo,departement,Poro,Savanes,9.4167,-5.6167,748393
+civ_dep_koro,Koro,departement,Bafing,Woroba,8.55,-7.4667,76345
+civ_dep_kouassi_kouassikro,Kouassi-Kouassikro,departement,N'Zi,Lacs,7.0167,-4.7167,30962
+civ_dep_kouibly,Kouibly,departement,Guémon,Montagnes,7.25,-7.2333,144723
+civ_dep_koun_fao,Koun-Fao,departement,Gontougo,Zanzan,7.4833,-3.25,167881
+civ_dep_kounahiri,Kounahiri,departement,Béré,Woroba,7.8,-5.8333,101111
+civ_dep_kouto,Kouto,departement,Bagoué,Savanes,9.9,-6.4167,175587
+civ_dep_lakota,Lakota,departement,Lôh-Djiboua,Gôh-Djiboua,5.85,-5.6833,334235
+civ_dep_m_bahiakro,M’Bahiakro,departement,Iffou,Lacs,7.4667,-4.3333,78369
+civ_dep_m_batto,M’Batto,departement,Moronou,Lacs,6.4667,-4.3667,142750
+civ_dep_m_bengue,M’Bengué,departement,Poro,Savanes,10,-5.9,114971
+civ_dep_madinani,Madinani,departement,Kabadougou,Denguélé,9.6167,-6.95,50248
+civ_dep_man,Man,departement,Tonkpi,Montagnes,7.4,-7.55,461135
+civ_dep_mankono,Mankono,departement,Béré,Woroba,8.06,-6.19,271894
+civ_dep_meagui,Méagui,departement,Nawa,Bas-Sassandra,5.4,-6.5667,299251
+civ_dep_minignan,Minignan,departement,Folon,Denguélé,10,-7.8333,61637
+civ_dep_nassian,Nassian,departement,Bounkani,Zanzan,8.45,-3.4667,71724
+civ_dep_niakaramandougou,Niakaramandougou,departement,Hambol,Vallée du Bandama,8.6667,-5.2833,195127
+civ_dep_odienne,Odienné,departement,Kabadougou,Denguélé,9.5,-7.5667,156730
+civ_dep_ouangolodougou,Ouangolodougou,departement,Tchologo,Savanes,9.9667,-5.15,294639
+civ_dep_ouaninou,Ouaninou,departement,Bafing,Woroba,8.2333,-7.8667,65981
+civ_dep_ouelle,Ouellé,departement,Iffou,Lacs,7.3,-4.0167,56501
+civ_dep_oume,Oumé,departement,Gôh,Gôh-Djiboua,6.3833,-5.4167,260786
+civ_dep_prikro,Prikro,departement,Iffou,Lacs,7.6333,-3.9833,95595
+civ_dep_sakassou,Sakassou,departement,Gbêkê,Vallée du Bandama,7.4472,-5.2944,108110
+civ_dep_samatiguila,Samatiguila,departement,Kabadougou,Denguélé,9.8167,-7.5667,19710
+civ_dep_san_pedro,San-Pédro,departement,San-Pédro,Bas-Sassandra,5,-6.75,790242
+civ_dep_sandegue,Sandégué,departement,Gontougo,Zanzan,7.95,-3.5833,69742
+civ_dep_sassandra,Sassandra,departement,Gbôklé,Bas-Sassandra,4.95,-6.0833,353228
+civ_dep_seguela,Séguéla,departement,Worodougou,Woroba,7.9569,-6.6681,298384
+civ_dep_seguelon,Séguélon,departement,Kabadougou,Denguélé,9.35,-7.1167,33585
+civ_dep_sikensi,Sikensi,departement,Agnéby-Tiassa,Lagunes,5.6667,-4.5667,125897
+civ_dep_sinematiali,Sinématiali,departement,Poro,Savanes,9.5833,-5.3833,74981
+civ_dep_sinfra,Sinfra,departement,Marahoué,Sassandra-Marahoué,6.6217,-5.9103,245226
+civ_dep_sipilou,Sipilou,departement,Tonkpi,Montagnes,7.8667,-8.1,73109
+civ_dep_soubre,Soubré,departement,Nawa,Bas-Sassandra,5.7833,-6.6,587441
+civ_dep_taabo,Taabo,departement,Agnéby-Tiassa,Lagunes,6.2333,-5.1333,76761
+civ_dep_tabou,Tabou,departement,San-Pédro,Bas-Sassandra,4.42,-7.36,270482
+civ_dep_tai,Taï,departement,Cavally,Montagnes,5.8667,-7.45,117387
+civ_dep_tanda,Tanda,departement,Gontougo,Zanzan,7.8,-3.17,113523
+civ_dep_tehini,Téhini,departement,Bounkani,Zanzan,9.6,-3.6667,83846
+civ_dep_tengrela,Tengréla,departement,Bagoué,Savanes,10.4869,-6.38,141761
+civ_dep_tiapoum,Tiapoum,departement,Sud-Comoé,Comoé,5.1333,-3.0167,67941
+civ_dep_tiassale,Tiassalé,departement,Agnéby-Tiassa,Lagunes,5.9,-4.8333,278954
+civ_dep_tiebissou,Tiébissou,departement,Bélier,Lacs,7.27,-5.48,116321
+civ_dep_touba,Touba,departement,Bafing,Woroba,8.2667,-7.6833,120524
+civ_dep_toulepleu,Toulépleu,departement,Cavally,Montagnes,6.58,-8.42,93529
+civ_dep_toumodi,Toumodi,departement,Bélier,Lacs,6.92,-5.05,168363
+civ_dep_transua,Transua,departement,Gontougo,Zanzan,7.55,-3.0167,112842
+civ_dep_vavoua,Vavoua,departement,Haut-Sassandra,Sassandra-Marahoué,7.38,-6.49,477154
+civ_dep_yakasse_attobrou,Yakassé-Attobrou,departement,La Mé,Lagunes,6.1833,-3.65,105986
+civ_dep_yamoussoukro,Yamoussoukro,departement,,Yamoussoukro,6.8333,-5.25,372559
+civ_dep_zouan_hounien,Zouan-Hounien,departement,Tonkpi,Montagnes,6.9167,-8.2167,250938
+civ_dep_zoukougbeu,Zoukougbeu,departement,Haut-Sassandra,Sassandra-Marahoué,6.7667,-6.8667,146537
+civ_dep_zuenoula,Zuénoula,departement,Marahoué,Sassandra-Marahoué,7.4292,-6.0431,184882
+civ_folon,Folon,region,Folon,Denguélé,10,-7.8333,146209
+civ_gbeke,Gbêkê,region,Gbêkê,Vallée du Bandama,7.6833,-5.0167,1352900
+civ_gbokle,Gbôklé,region,Gbôklé,Bas-Sassandra,4.95,-6.0833,460980
+civ_goh,Gôh,region,Gôh,Gôh-Djiboua,6.1333,-5.9333,985282
+civ_gontougo,Gontougo,region,Gontougo,Zanzan,8.0333,-2.7833,917828
+civ_grands_ponts,Grands-Ponts,region,Grands-Ponts,Lagunes,5.3167,-4.3833,450007
+civ_guemon,Guémon,region,Guémon,Montagnes,6.4167,-7.5,930873
+civ_hambol,Hambol,region,Hambol,Vallée du Bandama,8.1333,-5.1,612029
+civ_haut_sassandra,Haut-Sassandra,region,Haut-Sassandra,Sassandra-Marahoué,7,-6.5,1739697
+civ_iffou,Iffou,region,Iffou,Lacs,7.25,-3.8667,378560
+civ_indenie_djuablin,Indénié-Djuablin,region,Indénié-Djuablin,Comoé,6.7333,-3.4833,716443
+civ_kabadougou,Kabadougou,region,Kabadougou,Denguélé,9.5,-7.5667,289806
+civ_la_me,La Mé,region,La Mé,Lagunes,6.1667,-3.9833,726665
+civ_loh_djiboua,Lôh-Djiboua,region,Lôh-Djiboua,Gôh-Djiboua,5.8333,-5.3667,1103158
+civ_marahoue,Marahoué,region,Marahoué,Sassandra-Marahoué,7.1667,-5.8333,981180
+civ_moronou,Moronou,region,Moronou,Lacs,6.65,-4.2,439755
+civ_n_zi,N'Zi,region,N'Zi,Lacs,6.65,-4.7,254623
+civ_nawa,Nawa,region,Nawa,Bas-Sassandra,5.7833,-6.6,1165472
+civ_poro,Poro,region,Poro,Savanes,9.4167,-5.6167,1040461
+civ_san_pedro,San-Pédro,region,San-Pédro,Bas-Sassandra,4.75,-6.6333,1060724
+civ_sud_comoe,Sud-Comoé,region,Sud-Comoé,Comoé,5.5,-3.25,784893
+civ_tchologo,Tchologo,region,Tchologo,Savanes,9.5833,-5.1833,603084
+civ_tonkpi,Tonkpi,region,Tonkpi,Montagnes,7.4,-7.55,1387909
+civ_worodougou,Worodougou,region,Worodougou,Woroba,8.5,-6.3333,429812

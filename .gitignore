@@ -1,0 +1,18 @@
+# Système
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Temporaire
+*.tmp
+*.log
+
+# Éditeurs
+.vscode/
+.idea/

@@ -1,0 +1,33 @@
+{
+  "title": "Référentiel de Données Solaires de la Côte d'Ivoire (RDS Côte d'Ivoire)",
+  "description": "Rayonnement, météo, pluie et particules pour les 31 régions et les 111 départements de la Côte d'Ivoire, en mensuel et en journalier, de 1991 à 2025 selon la source : 37,6 millions de valeurs. Sources : NASA POWER, ERA5, CAMS Radiation, CAMS EAC4, PVGIS-SARAH3, PVGIS-ERA5, GPM IMERG, CHIRPS. Toutes les valeurs sont en confiance B (satellite et réanalyse, sans mesure au sol). Limites connues : CAVEATS.md. Inventaire et sommes de contrôle : MANIFEST.csv.",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "fra",
+  "creators": [
+    {
+      "name": "Kalivogui, Siba",
+      "affiliation": "Kuma Science"
+    }
+  ],
+  "keywords": [
+    "énergie solaire",
+    "Côte d'Ivoire",
+    "Afrique de l'Ouest",
+    "gisement solaire",
+    "GHI",
+    "DNI",
+    "données ouvertes",
+    "photovoltaïque",
+    "NASA POWER",
+    "ERA5",
+    "CAMS",
+    "SARAH-3",
+    "EAC4",
+    "GPM IMERG",
+    "CHIRPS",
+    "précipitation"
+  ]
+}

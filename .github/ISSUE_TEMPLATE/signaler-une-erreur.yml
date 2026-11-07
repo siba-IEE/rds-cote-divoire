@@ -1,0 +1,44 @@
+name: Signaler une erreur de donnée
+description: Signaler une valeur incorrecte ou suspecte dans le référentiel.
+title: "[Correction] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Avant de signaler, voir CAVEATS.md : plusieurs séries ont des limites connues (pluie journalière NASA POWER, mailles partagées, CHIRPS journalier).
+  - type: input
+    id: fichier
+    attributes:
+      label: Fichier concerné
+      placeholder: ex. data/nasa-power/journalier_2021_2025.csv
+    validations:
+      required: true
+  - type: input
+    id: localite
+    attributes:
+      label: Localité
+      description: Code de data/localites.csv.
+      placeholder: ex. civ_dep_san_pedro
+    validations:
+      required: false
+  - type: input
+    id: periode
+    attributes:
+      label: Date ou période
+      placeholder: ex. 2022-09-16
+    validations:
+      required: false
+  - type: textarea
+    id: probleme
+    attributes:
+      label: Problème observé
+      description: Valeur présente dans le référentiel et ce qui semble incorrect.
+    validations:
+      required: true
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: Valeur attendue, ou valeur servie par la source, avec la référence.
+    validations:
+      required: true
