@@ -1,0 +1,12 @@
+Source : GPM IMERG V07 (NASA Global Precipitation Measurement ; Huffman, Stocker,
+Bolvin, Nelkin, Tan ; archive NASA GES DISC), servi par NASA POWER sous le
+paramètre IMERG_PRECTOT.
+
+Attribution requise : celle de NASA POWER (voir nasa-power/ATTRIBUTION.txt) et la
+citation du produit IMERG V07.
+
+Maille de 0,1°, jour UTC. Valeur de la maille qui contient la localité.
+
+Fichiers : journalier_1998_2000.csv à journalier_2021_2025.csv.
+Capture : octobre 2026, API POWER.
+Décision : ADR-0033.
