@@ -1,6 +1,6 @@
 # Journal des versions
 
-## 1.0.0 (non publiée)
+## 1.0.0 (2026-11-07)
 
 Première version : 142 localités (31 régions, 111 départements), 37,6 millions
 de valeurs, toutes en confiance B.
