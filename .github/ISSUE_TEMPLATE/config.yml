@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question ou discussion
+    url: mailto:contact@kumascience.com
+    about: Pour une question générale, ni proposition de donnée ni signalement d'erreur.

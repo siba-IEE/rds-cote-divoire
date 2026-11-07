@@ -1,0 +1,15 @@
+Source : CAMS Radiation Service v4.6 (Heliosat-4 pour le tous ciels, McClear pour
+le ciel clair), Copernicus Atmosphere Monitoring Service, Atmosphere Data Store.
+
+Attribution requise :
+« Generated using Copernicus Atmosphere Monitoring Service information 2026. »
+Licence : licence Copernicus (CC BY 4.0).
+
+Calculé au point de la localité, à partir des images Meteosat. Irradiation
+intégrée sur le jour UTC ou sur le mois, ramenée en kWh/m²/jour.
+
+Fichiers : mensuel_2005_2025.csv ; journalier_2005_2010.csv à journalier_2021_2025.csv.
+Jours sans images Meteosat : tous ciels vide, ciel clair servi.
+Valeurs 2021-2025 : celles servies le 2026-10-28, après la révision de ces années par CAMS.
+Capture : septembre et octobre 2026.
+Décisions : ADR-0011, ADR-0013, ADR-0018, ADR-0035, ADR-0037, ADR-0039.

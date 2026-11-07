@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces données, citez le référentiel comme suit."
+title: "Référentiel de Données Solaires de la Côte d'Ivoire (RDS Côte d'Ivoire)"
+abstract: "Rayonnement, météo, pluie et particules pour les 31 régions et les 111 départements de la Côte d'Ivoire, en mensuel et en journalier, de 1991 à 2025 selon la source. Sources : NASA POWER, ERA5, CAMS Radiation, CAMS EAC4, PVGIS-SARAH3, PVGIS-ERA5, GPM IMERG, CHIRPS. Confiance B : satellite et réanalyse, sans mesure au sol."
+type: dataset
+authors:
+  - family-names: Kalivogui
+    given-names: Siba
+    affiliation: "Kuma Science"
+license: CC-BY-4.0
+repository-code: "https://github.com/siba-IEE/rds-cote-divoire"
+url: "https://github.com/siba-IEE/rds-cote-divoire"
+version: "1.0.0"
+keywords:
+  - "énergie solaire"
+  - "Côte d'Ivoire"
+  - "gisement solaire"
+  - "données ouvertes"
+  - "photovoltaïque"

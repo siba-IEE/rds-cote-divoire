@@ -1,0 +1,12 @@
+Source : PVGIS-SARAH3, Commission européenne, Centre commun de recherche (JRC).
+Rayonnement satellite SARAH-3 de CM SAF / EUMETSAT.
+
+Attribution requise :
+« PVGIS, Commission européenne (JRC) ; SARAH-3, CM SAF / EUMETSAT. »
+Réutilisation libre (politique de réutilisation de la Commission européenne).
+
+Servi au point de la localité. Moyenne journalière du mois, en kWh/m²/jour.
+
+Fichier : mensuel_2005_2023.csv (dernière année servie par PVGIS : 2023).
+Capture : septembre 2026.
+Décisions : ADR-0010, ADR-0012, ADR-0015, ADR-0018.

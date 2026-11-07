@@ -1,0 +1,16 @@
+Source : CHIRPS v3.0, version finale (Climate Hazards Center InfraRed Precipitation
+with Stations), Climate Hazards Center, université de Californie à Santa Barbara ;
+Funk et al. (2026), Scientific Data 13, 718.
+
+Citation demandée :
+« Climate Hazards Center Infrared Precipitation with Stations version 3 (CHIRPS3)
+Data Repository: https://doi.org/10.15780/G2JQ0P (2025). »
+Licence : domaine public, CC BY 4.0.
+
+Maille de 0,05° qui contient la localité (121 mailles pour 142 localités).
+Le journalier répartit le cumul de chaque pentade selon ERA5 (variante rnl) :
+à utiliser en cumuls de pentade ou de mois (voir CAVEATS.md).
+
+Fichiers : journalier_1991_2000.csv à journalier_2021_2025.csv.
+Capture : octobre 2026.
+Décision : ADR-0036.

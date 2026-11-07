@@ -1,0 +1,13 @@
+Source : CAMS EAC4, réanalyse de composition atmosphérique, Copernicus Atmosphere
+Monitoring Service, Atmosphere Data Store.
+
+Attribution requise :
+« Generated using Copernicus Atmosphere Monitoring Service information 2026. »
+Licence : licence Copernicus (CC BY 4.0).
+
+Point de grille de 0,75° le plus proche de la localité (49 points pour 142 localités).
+Mensuel : moyennes mensuelles servies. Journalier : moyenne des 8 pas de 3 heures du jour UTC.
+
+Fichiers : mensuel_2003_2025.csv ; journalier_2003_2010.csv à journalier_2021_2025.csv.
+Capture : octobre 2026.
+Décisions : ADR-0022, ADR-0031.

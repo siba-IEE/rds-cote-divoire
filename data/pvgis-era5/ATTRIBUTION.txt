@@ -1,0 +1,14 @@
+Source : PVGIS-ERA5, Commission européenne, Centre commun de recherche (JRC).
+Réanalyse ERA5 (ECMWF, Copernicus Climate Change Service) servie au point par PVGIS.
+
+Attribution requise :
+« PVGIS, Commission européenne (JRC) ; ERA5, Copernicus Climate Change Service. »
+Réutilisation libre (politique de réutilisation de la Commission européenne).
+
+Moyenne journalière du mois, en kWh/m²/jour.
+
+Fichier : mensuel_2005_2023.csv (dernière année servie par PVGIS : 2023).
+Saut de 2021 à 2023 (GHI +3,6 %, DNI +7,7 %), probablement propre à la
+réanalyse ERA5 : voir CAVEATS.md.
+Capture : septembre 2026.
+Décisions : ADR-0010, ADR-0012, ADR-0015, ADR-0018, ADR-0021.
