@@ -1,0 +1,14 @@
+Source : NASA POWER (Prediction Of Worldwide Energy Resources), NASA Langley Research Center.
+
+Attribution requise :
+« These data were obtained from the NASA Langley Research Center (LaRC) POWER
+Project funded through the NASA Earth Science / Applied Science Program. »
+
+Rayonnement et albédo : CERES SYN1deg, maille de 1°.
+Météo et pluie : MERRA-2, maille de 0,5° × 0,625°. Pluie : paramètre PRECTOTCORR.
+Valeur de la maille qui contient la localité, telle que servie.
+
+Fichiers : mensuel_1991_2025.csv ; journalier_1991_2000.csv à journalier_2021_2025.csv.
+DNI et albédo servis à partir de 2001 ; DHI publié à partir de 2001 (rupture avant).
+Capture : septembre et octobre 2026, API POWER.
+Décisions : ADR-0007, ADR-0013, ADR-0016, ADR-0018 à ADR-0020, ADR-0031, ADR-0032.
