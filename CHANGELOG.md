@@ -1,6 +1,6 @@
 # Journal des versions
 
-## 1.0.0 (2026-11-07)
+## 1.0.0 (2026-11-08)
 
 Première version : 142 localités (31 régions, 111 départements), 37,6 millions
 de valeurs, toutes en confiance B.
@@ -12,3 +12,5 @@ de valeurs, toutes en confiance B.
 - `MANIFEST.csv` : période, lignes, localités et SHA-256 de chaque fichier.
 - Export de Kuma Data Core CIV (`scripts/exporter_rds.py`), base à la
   révision 0058.
+
+DOI de version : 10.5281/zenodo.24051871.
