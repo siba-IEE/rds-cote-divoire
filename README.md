@@ -11,6 +11,7 @@ selon la source, en mensuel et en journalier. Licence CC BY 4.0.
 | Profondeur | 1991-2025 (rayonnement satellite : 2005-2025) |
 | Sources | NASA POWER, ERA5, CAMS Radiation, CAMS EAC4, PVGIS (SARAH-3 et ERA5), GPM IMERG, CHIRPS |
 | Confiance | B partout : satellite et réanalyse, aucune mesure au sol pour l'instant |
+| DOI | [10.5281/zenodo.24051870](https://doi.org/10.5281/zenodo.24051870) |
 
 Inventaire des fichiers, périodes et sommes de contrôle : [MANIFEST.csv](MANIFEST.csv),
 vérifiable par `python examples/verifier_manifeste.py`.
@@ -47,10 +48,10 @@ requête, la conversion, les contrôles et les constats
 
 ## Citer
 
-> Kalivogui, S. (2026). Référentiel de Données Solaires de la Côte d'Ivoire (RDS Côte d'Ivoire). Kuma Science.
+> Kalivogui, S. (2026). Référentiel de Données Solaires de la Côte d'Ivoire (RDS Côte d'Ivoire). Kuma Science. https://doi.org/10.5281/zenodo.24051870
 
-Voir [CITATION.cff](CITATION.cff). Le DOI Zenodo sera ajouté à la première
-version publiée.
+Ce DOI renvoie toujours à la dernière version. La 1.0.0 a aussi son propre
+DOI : 10.5281/zenodo.24051871. Voir [CITATION.cff](CITATION.cff).
 
 ## Sources, limites, licence
 
